@@ -1,5 +1,12 @@
 # Social-Network-API
 
+## Description
+This is a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. 
+
+## Websites
+- GitHub Repo: https://github.com/Zoujiejie/Social-Network-API 
+- Demo Video: https://drive.google.com/file/d/1ueG2J3aU4llS4limHAS_DIGMJC-841dB/view 
+
 ## User Story
 ```
 AS A social media startup
@@ -19,6 +26,14 @@ THEN I am able to successfully create, update, and delete users and thoughts in 
 WHEN I test API POST and DELETE routes in Insomnia
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 ```
+
+## Technologies Used
+1. MongoDB
+2. Mongoose
+3. Javascript
+4. Nodemon
+5. Postman 
+6. Express
 
 ## Models
 ### User
